@@ -17,3 +17,7 @@ Download videos:
 Share a video with [Transmission](https://transmissionbt.com/):
 - File>New and choose the file to share. Add [some trackers](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt).
 - Right click on the file being shared and choose 'Copy magnet link'
+
+## video magnets
+
+[list of video magnets](./videos.txt)
