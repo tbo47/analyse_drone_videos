@@ -1,4 +1,4 @@
-
+This project aims to analyze my drone's videos with [PyTorch](https://github.com/open-mmlab/mmtracking).
 
 ## Installation and run
 
